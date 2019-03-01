@@ -1,0 +1,6 @@
+
+msquid:UselessImportCheck"=Remove this unused import 'android.arch.lifecycle.ViewModel'.(£‹¨òÿÿÿÿÿ8ü±·Ä’-
+Jsquid:S1068&"'Remove this unused "TAG" private field.(Õ·Ø üÿÿÿÿ8ô˜Èü‘-
+gsquid:UselessImportCheck"<Remove this unused import 'android.arch.lifecycle.LiveData'.(Úò›Ž8‚„¯Ä’-
+]"squid:SwitchLastCaseIsDefaultCheckš""Add a default case to this switch.(ÿ«¬‹üÿÿÿÿ8ô˜Èü‘-
+X"squid:SwitchLastCaseIsDefaultCheck­""Add a default case to this switch.(ðžÌ8ô˜Èü‘-
